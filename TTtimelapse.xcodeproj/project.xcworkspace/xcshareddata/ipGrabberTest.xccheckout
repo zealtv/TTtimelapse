@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>02F773D4-D38E-4820-98EF-0C62AF280B73</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>911F9D40E310FCB758EA5DDDC5C456407FB28AC8</key>
+		<string>https://github.com/Flightphase/ofxImageSequence.git</string>
+		<key>AECFBD561E27AA75142CC3760E6EF1774F14CD24</key>
+		<string>https://github.com/bakercp/ofxIpVideoGrabber.git</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>911F9D40E310FCB758EA5DDDC5C456407FB28AC8</key>
+		<string>ofxImageSequence/</string>
+		<key>AECFBD561E27AA75142CC3760E6EF1774F14CD24</key>
+		<string>../../../addons/ofxIpVideoGrabber</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Flightphase/ofxImageSequence.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>911F9D40E310FCB758EA5DDDC5C456407FB28AC8</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>911F9D40E310FCB758EA5DDDC5C456407FB28AC8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofxImageSequence</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AECFBD561E27AA75142CC3760E6EF1774F14CD24</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofxIpVideoGrabber</string>
+		</dict>
+	</array>
+</dict>
+</plist>
