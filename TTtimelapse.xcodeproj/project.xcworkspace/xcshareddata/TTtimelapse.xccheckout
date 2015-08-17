@@ -6,36 +6,32 @@
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>6AD35BFB-4DA4-41D1-9C20-C06FBBB8E9C3</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TTtimelapse</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>911F9D40E310FCB758EA5DDDC5C456407FB28AC8</key>
-		<string>https://github.com/Flightphase/ofxImageSequence.git</string>
+		<key>AC91EF90FD07D88D44D5F6457718090137B7A283</key>
+		<string>https://github.com/zealtv/TTtimelapse.git</string>
 		<key>AECFBD561E27AA75142CC3760E6EF1774F14CD24</key>
 		<string>https://github.com/bakercp/ofxIpVideoGrabber.git</string>
 	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TTtimelapse.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>911F9D40E310FCB758EA5DDDC5C456407FB28AC8</key>
-		<string>ofxImageSequence/</string>
+		<key>AC91EF90FD07D88D44D5F6457718090137B7A283</key>
+		<string>../..</string>
 		<key>AECFBD561E27AA75142CC3760E6EF1774F14CD24</key>
 		<string>../../../addons/ofxIpVideoGrabber</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/Flightphase/ofxImageSequence.git</string>
+	<string>https://github.com/zealtv/TTtimelapse.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>911F9D40E310FCB758EA5DDDC5C456407FB28AC8</string>
+	<string>AC91EF90FD07D88D44D5F6457718090137B7A283</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
-		<dict>
-			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
-			<string>public.vcs.git</string>
-			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>911F9D40E310FCB758EA5DDDC5C456407FB28AC8</string>
-			<key>IDESourceControlWCCName</key>
-			<string>ofxImageSequence</string>
-		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
@@ -43,6 +39,14 @@
 			<string>AECFBD561E27AA75142CC3760E6EF1774F14CD24</string>
 			<key>IDESourceControlWCCName</key>
 			<string>ofxIpVideoGrabber</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AC91EF90FD07D88D44D5F6457718090137B7A283</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TTtimelapse</string>
 		</dict>
 	</array>
 </dict>

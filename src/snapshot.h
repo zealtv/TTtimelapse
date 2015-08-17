@@ -46,10 +46,14 @@ public:
       minutestream << std::setw( 2 ) << std::setfill( '0' ) << ofGetMinutes();
       ostringstream secondstream;
       secondstream << std::setw( 2 ) << std::setfill( '0' ) << ofGetSeconds();
+      ostringstream daystream;
+      daystream << std::setw( 2 ) << std::setfill( '0' ) << ofGetDay();
+      ostringstream hourstream;
+      hourstream << std::setw( 2 ) << std::setfill( '0' ) << ofGetHours();
       
       
-      string date = ofToString( ofGetYear() ) + "-" + monthstream.str() + "-" + ofToString( ofGetDay() );
-      string time = ofToString( ofGetHours() ) + "-" + minutestream.str() + "-" + secondstream.str();
+      string date = ofToString( ofGetYear() ) + "-" + monthstream.str() + "-" + daystream.str();
+      string time = hourstream.str() + "-" + minutestream.str() + "-" + secondstream.str();
     
       string outString = "";
     
